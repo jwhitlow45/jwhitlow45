@@ -1,5 +1,4 @@
 ## [Portfolio](http://jwhitlow-sps-summer21.appspot.com/)
-Above is a link to a website hosting my current portfolio
 
 ## About Me
 
