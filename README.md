@@ -6,7 +6,7 @@ My name is Jacob Whitlow and I am currently working as the Data Science Research
 
 ## Goals
 
-My current long-term goals include graduating from college with my Bachelor's degree in Computer Science and eventually working as a Data Scientist somewhere in Silicon Valley. I plan to return to training muay thai after I gradudate college as I currently do not have the time for it between school and other projects. Ultimately I would like to earn my black belt as that would be a huge personal accomplishment that would challenge me both mentally and physically.
+My current long-term goals include graduating from college with my Bachelor's degree in Computer Science and eventually working as a Data Scientist somewhere in Silicon Valley. I plan to return to training muay thai after I gradudate college as I currently do not have the time for it between school and other projects. Ultimately, I would like to earn my black belt as that would be a huge personal accomplishment that would challenge me both mentally and physically.
 
 ## Current Interests
 
