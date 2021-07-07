@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Jacob Whitlow and I am currently working as the Database Team Lead for the California Irrigation Web Application Project in Fresno, California. The work I do involves building and maintaining databases in Microsoft Azure, as well as building APIs to allow interaction with these databases. The languages and technologies I currently work with are Python, MSSQL, Microsoft Azure Service Bus, Microsoft Azure Data Queue, and anything else I need to learn in order to get my work done. While I do not actively work with any of these languages I do have a deep understanding of C++ and Lua from past experiences and projects that I have built.
+My name is Jacob Whitlow and I am currently working as the Database Team Lead for the California Irrigation Web Application Project in Fresno, California. The work I do involves building and maintaining databases in Microsoft Azure, as well as building APIs to allow interaction with these databases. The languages and technologies I currently work with are Python, MSSQL, Microsoft Azure Service Bus, Microsoft Azure Data Queue, and anything else I need to learn in order to get my work done. While I do not actively work with these languages I do have a strong foundation in C++ and Lua from past experiences and projects.
 
 ## Goals
 
