@@ -60,39 +60,15 @@
 <summary>My Stats</summary>
 <br />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21594%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 619 Contributions in the Year 2021
- > 
-> 📦 54.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-🌆 Daytime    365 commits    █████████████░░░░░░░░░░░░   52.75% 
-🌃 Evening    169 commits    ██████░░░░░░░░░░░░░░░░░░░   24.42% 
-🌙 Night      89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-Tuesday      84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
-Wednesday    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
-Thursday     70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
-Friday       170 commits    ██████░░░░░░░░░░░░░░░░░░░   24.57% 
-Saturday     112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
-Sunday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6%
+🌞 Morning    69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+🌆 Daytime    371 commits    █████████████░░░░░░░░░░░░   53.15% 
+🌃 Evening    169 commits    ██████░░░░░░░░░░░░░░░░░░░   24.21% 
+🌙 Night      89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75%
 
 ```
 
@@ -100,15 +76,7 @@ Sunday       101 commits    ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/New_York
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -127,10 +95,6 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/jwhitlow45/jwhitlow45/main/charts/bar_graph.png) 
 
 
  Last Updated on 20/07/2021
