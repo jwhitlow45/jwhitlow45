@@ -1,8 +1,13 @@
 ### About Me
-I lead a team to create overly complicated spreadsheets to store large amounts of weather data in the cloud
-Computer Science undergraduate, Fall 2022 🎓
-California State University, Fresno 🏫
-</br>
+<p>☁️ I lead a team to create overly complicated spreadsheets to store large amounts of weather data in the cloud</p>
+<p>
+  <a href="https://pop.system76.com/">
+    <img src="https://i.redd.it/ms9je823h6y31.png" width="16px" height="16px"/>
+  </a>
+  I don't use Arch btw
+</p>
+<p>🎓 Computer Science undergraduate, Fall 2022</p>
+<p>🖥️ California State University, Fresno</p>
 
 ### Portfolio and Socials
 <a href="https://jwhitlow45.github.io">
