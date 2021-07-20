@@ -56,9 +56,7 @@
      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" />
  <br />
 ---
-<details>
-<summary>My Stats</summary>
-<br />
+### My Stats
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21594%20lines%20of%20code-blue)
 
@@ -99,5 +97,3 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
  Last Updated on 20/07/2021
 <!--END_SECTION:waka-->
-</details>
-
