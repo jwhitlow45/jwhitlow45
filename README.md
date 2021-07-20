@@ -9,13 +9,13 @@
   <img align="left"
        alt="jwhitlow45 | LinkedIn"
        width="24px"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d634b1cf8d6ac4a24566cf994632468abf3d0d/icons/linkedin.svg" />
+       src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" />
 <a />
 <a href="https://jwhitlow45.github.io">
   <img align="left"
        alt="jwhitlow45 | Twitter"
        width="24px"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d634b1cf8d6ac4a24566cf994632468abf3d0d/icons/twitter.svg" />
+       src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/twitter/twitter-original.svg" />
 <a />
 <br />
 
