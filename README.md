@@ -1,4 +1,4 @@
-### Portfolio and Socials:
+### Portfolio and Socials
 <a href="https://jwhitlow45.github.io">
   <img align="left"
        alt="jwhitlow45 | Portfolio"
