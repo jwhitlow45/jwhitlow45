@@ -57,8 +57,8 @@
  <br />
 
 <details>
-<summary>My Github Stats</summary>
-<br>
+<summary>My Stats</summary>
+<br />
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
