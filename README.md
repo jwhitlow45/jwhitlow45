@@ -31,9 +31,9 @@
      width="24px"
      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" />
 <img align="left"
-     alt="mssql"
+     alt="sql"
      width="24px"
-     src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+     src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left"
      alt="azure"
      width="24px"
