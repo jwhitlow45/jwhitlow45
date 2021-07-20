@@ -57,4 +57,78 @@
  <br />
   
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 619 Contributions in the Year 2021
+ > 
+> 📦 54.8 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
+🌆 Daytime    365 commits    █████████████░░░░░░░░░░░░   52.75% 
+🌃 Evening    169 commits    ██████░░░░░░░░░░░░░░░░░░░   24.42% 
+🌙 Night      89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
+Tuesday      84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
+Wednesday    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
+Thursday     70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+Friday       170 commits    ██████░░░░░░░░░░░░░░░░░░░   24.57% 
+Saturday     112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
+Sunday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84% 
+C++                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jwhitlow45/jwhitlow45/main/charts/bar_graph.png) 
+
+
+ Last Updated on 20/07/2021
 <!--END_SECTION:waka-->
