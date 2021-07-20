@@ -55,7 +55,7 @@
      width="24px"
      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" />
  <br />
-
+---
 <details>
 <summary>My Stats</summary>
 <br />
