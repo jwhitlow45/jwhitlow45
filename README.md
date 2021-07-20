@@ -25,9 +25,7 @@
 <img align="left"
      alt="cpp"
      width="24px"
-     src="![image](https://user-images.githubusercontent.com/46979583/126382262-4e346824-04ae-4424-9270-b0bf3d30961c.png)" />
- ![image](https://user-images.githubusercontent.com/46979583/126382283-fbd7397c-f557-450d-acd7-49e5622484e7.png)
-
+     src="https://user-images.githubusercontent.com/46979583/126382262-4e346824-04ae-4424-9270-b0bf3d30961c.png" />
 
 
 ### About Me
