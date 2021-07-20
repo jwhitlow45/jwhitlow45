@@ -1,23 +1,29 @@
+### About Me
+I lead a team to create overly complicated spreadsheets to store large amounts of weather data in the cloud
+Computer Science undergraduate, Fall 2022 🎓
+California State University, Fresno 🏫
+</br>
+
 ### Portfolio and Socials
 <a href="https://jwhitlow45.github.io">
   <img align="left"
        alt="jwhitlow45 | Portfolio"
        width="24px"
        src="https://raw.githubusercontent.com/jwhitlow45/jwhitlow45.github.io/main/img/brand/brand-black.png" />
-<a />
+</a>
 <a href="https://linkedin.com/jwhitlow45">
   <img align="left"
        alt="jwhitlow45 | LinkedIn"
        width="24px"
        src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" />
-<a />
+</a>
 <a href="https://jwhitlow45.github.io">
   <img align="left"
        alt="jwhitlow45 | Twitter"
        width="24px"
        src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/twitter/twitter-original.svg" />
-<a />
-<br />
+</a>
+</br>
 
   
   
@@ -54,7 +60,7 @@
      alt="git"
      width="24px"
      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" />
- <br />
+ </br>
 ---
 ### My Stats
 <!--START_SECTION:waka-->
