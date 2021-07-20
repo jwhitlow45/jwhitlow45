@@ -5,10 +5,16 @@
 <a href="https://linkedin.com/jwhitlow45">
   <img align="left" alt="jwhitlow45 | LinkedIn" width="24px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d634b1cf8d6ac4a24566cf994632468abf3d0d/icons/linkedin.svg" />
 <a/>
-<a href="https://jwhitlow45.github.io">
-  <img align="left" alt="jwhitlow45 | Twitter" width="24px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d634b1cf8d6ac4a24566cf994632468abf3d0d/icons/twitter.svg" />
-<a/>
+
+  [<img align="left" alt="jwhitlow45 | Twitter" width="24px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d634b1cf8d6ac4a24566cf994632468abf3d0d/icons/twitter.svg" />]https://jwhitlow45.github.io
+
 <br />
+
+  
+  
+### Languages and Tools
+  
+  
 
 ### About Me
 My name is Jacob Whitlow and I am computer science student at California State University, Fresno. After earning my B.S. in Computer Science I plan to attend graduate school and earn my M.S. in Computer Science. Alongside school I work as the Database Team Lead for iAgriculture DMS in Fresno, California. The work I do involves building and maintaining databases in Microsoft Azure, as well as building APIs to allow interaction with these databases. The languages and technologies I work with are Python, MSSQL, Microsoft Azure Service Bus, Microsoft Azure Data Queue, and anything else I need to learn to get my work done. While I do not actively work with these languages I do have a strong foundation in C++ and Lua from past experiences and projects. 
