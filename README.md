@@ -55,7 +55,10 @@
      width="24px"
      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" />
  <br />
-  
+
+<details>
+<summary>My Github Stats</summary>
+<br>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -132,3 +135,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
  Last Updated on 20/07/2021
 <!--END_SECTION:waka-->
+</details>
+
