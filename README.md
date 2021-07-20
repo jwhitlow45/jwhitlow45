@@ -1,19 +1,28 @@
 ### Socials:
 <a href="https://jwhitlow45.github.io">
-  <img align="left" alt="jwhitlow45 | Portfolio" width="24px" src="https://raw.githubusercontent.com/jwhitlow45/jwhitlow45.github.io/main/img/brand/brand-black.png" />
-<a/>
+  <img align="left"
+       alt="jwhitlow45 | Portfolio"
+       width="24px"
+       src="https://raw.githubusercontent.com/jwhitlow45/jwhitlow45.github.io/main/img/brand/brand-black.png" />
+<a />
 <a href="https://linkedin.com/jwhitlow45">
-  <img align="left" alt="jwhitlow45 | LinkedIn" width="24px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d634b1cf8d6ac4a24566cf994632468abf3d0d/icons/linkedin.svg" />
-<a/>
-
-  [<img align="left" alt="jwhitlow45 | Twitter" width="24px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d634b1cf8d6ac4a24566cf994632468abf3d0d/icons/twitter.svg" />]https://jwhitlow45.github.io
-
+  <img align="left"
+       alt="jwhitlow45 | LinkedIn"
+       width="24px"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d634b1cf8d6ac4a24566cf994632468abf3d0d/icons/linkedin.svg" />
+<a />
+<a href="https://jwhitlow45.github.io">
+  <img align="left"
+       alt="jwhitlow45 | Twitter"
+       width="24px"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d634b1cf8d6ac4a24566cf994632468abf3d0d/icons/twitter.svg" />
+<a />
 <br />
 
   
   
 ### Languages and Tools
-  
+
   
 
 ### About Me
