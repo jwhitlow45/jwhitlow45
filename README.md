@@ -6,7 +6,7 @@
   </a>
   I don't use Arch btw
 </p>
-<p>🎓 Computer Science undergraduate, Fall 2022</p>
+<p>🎓 Computer Science Undergraduate, Fall 2022</p>
 <p>🖥️ California State University, Fresno</p>
 
 ### Portfolio and Socials
