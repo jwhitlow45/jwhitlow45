@@ -1,5 +1,5 @@
 ### About Me
-<p>☁️ I lead a team of other undergraduates to create overly complicated spreadsheets to store large amounts of weather data in the cloud</p>
+<p>☁️ I lead a team of fellow undergraduates to create overly complicated spreadsheets to store large amounts of weather data in the cloud</p>
 <p>
   <a href="https://pop.system76.com/">
     <img src="https://i.redd.it/ms9je823h6y31.png" width="16px" height="16px"/>
