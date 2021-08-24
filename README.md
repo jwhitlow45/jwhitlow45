@@ -86,13 +86,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Haskell                  1 hr 26 mins        █████████████████████████   100.0% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 26 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 26 mins        █████████████████████████   100.0%
 
 ```
 
