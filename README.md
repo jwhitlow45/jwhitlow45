@@ -16,7 +16,7 @@
        width="24px"
        src="https://raw.githubusercontent.com/jwhitlow45/jwhitlow45.github.io/main/img/brand/brand-black.png" />
 </a>
-<a href="https://linkedin.com/jwhitlow45">
+<a href="https://linkedin.com/in/jwhitlow45">
   <img align="left"
        alt="jwhitlow45 | LinkedIn"
        width="24px"
