@@ -22,7 +22,7 @@
        width="24px"
        src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://jwhitlow45.github.io">
+<a href="https://twitter.com/jdubbleuu">
   <img align="left"
        alt="jwhitlow45 | Twitter"
        width="24px"
