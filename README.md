@@ -6,8 +6,8 @@
   </a>
   I don't use Arch btw
 </p>
-<p>🎓 Computer Science Undergraduate, Fall 2022</p>
-<p>🖥️ California State University, Fresno</p>
+<p>🖥️ Computer Science Undergraduate, Fall 2022</p>
+<p>🎓 California State University, Fresno</p>
 
 ### Portfolio and Socials
 <a href="https://jwhitlow45.github.io">
