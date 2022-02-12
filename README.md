@@ -67,6 +67,8 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2042%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -84,16 +86,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   16 mins             ███████████████░░░░░░░░░░   62.5% 
-JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.8% 
-C++                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -110,5 +109,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2022 05:14:34 UTC
+ Last Updated on 12/02/2022 06:17:15 UTC
 <!--END_SECTION:waka-->
