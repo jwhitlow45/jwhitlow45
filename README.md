@@ -67,7 +67,7 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28%20Thousand%20lines%20of%20code-blue)
 
@@ -99,15 +99,15 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      7 repos             ███████░░░░░░░░░░░░░░░░░░   30.43% 
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Haskell                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+C++                      7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17% 
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17% 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Haskell                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 
 ```
 
 
 
- Last Updated on 12/02/2022 07:11:56 UTC
+ Last Updated on 12/02/2022 08:17:06 UTC
 <!--END_SECTION:waka-->
