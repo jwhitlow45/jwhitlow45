@@ -32,13 +32,13 @@
   
 ### Languages and Tools
 <img align="left"
-     alt="cpp"
-     width="24px"
-     src="https://user-images.githubusercontent.com/46979583/126382262-4e346824-04ae-4424-9270-b0bf3d30961c.png" />
-<img align="left"
      alt="python"
      width="24px"
      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" />
+<img align="left"
+     alt="cpp"
+     width="24px"
+     src="https://user-images.githubusercontent.com/46979583/126382262-4e346824-04ae-4424-9270-b0bf3d30961c.png" />
 <img align="left"
      alt="sql"
      width="24px"
