@@ -67,8 +67,6 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2055%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -114,5 +112,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2022 03:44:27 UTC
+ Last Updated on 01/05/2022 04:35:49 UTC
 <!--END_SECTION:waka-->
