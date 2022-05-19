@@ -67,7 +67,7 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
 
@@ -86,13 +86,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -109,5 +109,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 04:29:57 UTC
+ Last Updated on 19/05/2022 05:20:29 UTC
 <!--END_SECTION:waka-->
