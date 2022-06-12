@@ -71,7 +71,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
@@ -82,7 +82,7 @@
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 💬 Programming Languages: 
@@ -96,7 +96,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Python** 
+**💻 I mostly code in Python** 
 
 ```text
 Python                   11 repos            █████████░░░░░░░░░░░░░░░░   37.93% 
@@ -109,5 +109,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:20:02 UTC
+ Last Updated on 12/06/2022 08:22:16 UTC
 <!--END_SECTION:waka-->
