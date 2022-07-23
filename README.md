@@ -27,8 +27,6 @@
        src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/twitter/twitter-original.svg" />
 </a>
 </br>
-
-  
   
 ### Languages and Tools
 <img align="left"
@@ -36,9 +34,17 @@
      width="24px"
      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" />
 <img align="left"
+     alt="java"
+     width="24px"
+     src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+<img align="left"
      alt="cpp"
      width="24px"
      src="https://user-images.githubusercontent.com/46979583/126382262-4e346824-04ae-4424-9270-b0bf3d30961c.png" />
+<img align="left"
+     alt="graphql"
+     width="24px"
+     src="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 <img align="left"
      alt="sql"
      width="24px"
@@ -59,10 +65,6 @@
      alt="js"
      width="24px"
      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-plain.svg" />
-<img align="left"
-     alt="git"
-     width="24px"
-     src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" />
  </br>
 
 ### My Stats
