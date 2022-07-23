@@ -44,7 +44,7 @@
 <img align="left"
      alt="graphql"
      width="24px"
-     src="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 <img align="left"
      alt="sql"
      width="24px"
