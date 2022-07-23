@@ -1,5 +1,5 @@
 ### About Me
-<p>☁️ I lead a team of fellow undergraduates to create overly complicated spreadsheets to store large amounts of weather data in the cloud</p>
+<p>☁📡 Satellites go brrr 🛰</p>
 <p>
   <img src="https://www.projectwizards.net/media/pages/blog/2020/03/macos-08-zoom/c94bb008d1-1638367948/macos.png" width="16px" height="16px"/>
   I don't use Arch btw
