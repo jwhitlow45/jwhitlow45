@@ -4,7 +4,7 @@
   <img src="https://www.projectwizards.net/media/pages/blog/2020/03/macos-08-zoom/c94bb008d1-1638367948/macos.png" width="16px" height="16px"/>
   I don't use Arch btw
 </p>
-<p>🖥️ Computer Science Undergraduate, Fall 2022</p>
+<p>🖥️ B.S. Computer Science - 12/2022</p>
 <p>🎓 California State University, Fresno</p>
 
 ### Portfolio and Socials
