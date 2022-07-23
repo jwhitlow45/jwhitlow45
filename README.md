@@ -48,11 +48,11 @@
 <img align="left"
      alt="sql"
      width="24px"
-     src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original-wordmark.svg" />
+     src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" />
 <img align="left"
-     alt="azure"
+     alt="aws"
      width="24px"
-     src="https://swimburger.net/media/ppnn3pcl/azure.png" />
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />
 <img align="left"
      alt="html"
      width="24px"
