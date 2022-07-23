@@ -42,13 +42,13 @@
      width="24px"
      src="https://user-images.githubusercontent.com/46979583/126382262-4e346824-04ae-4424-9270-b0bf3d30961c.png" />
 <img align="left"
-     alt="graphql"
-     width="24px"
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-<img align="left"
      alt="sql"
      width="24px"
      src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" />
+<img align="left"
+     alt="graphql"
+     width="24px"
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 <img align="left"
      alt="aws"
      width="24px"
