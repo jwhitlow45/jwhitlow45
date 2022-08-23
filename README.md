@@ -88,13 +88,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -111,5 +111,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2022 01:28:06 UTC
+ Last Updated on 23/08/2022 01:52:16 UTC
 <!--END_SECTION:waka-->
