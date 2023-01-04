@@ -73,6 +73,31 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+🌆 Daytime    190 commits    ███████░░░░░░░░░░░░░░░░░░   28.49% 
+🌃 Evening    255 commits    █████████░░░░░░░░░░░░░░░░   38.23% 
+🌙 Night      149 commits    █████░░░░░░░░░░░░░░░░░░░░   22.34%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -86,5 +111,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 01:09:05 UTC
+ Last Updated on 04/01/2023 01:15:02 UTC
 <!--END_SECTION:waka-->
