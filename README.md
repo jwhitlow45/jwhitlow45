@@ -88,13 +88,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 
 ```
 
@@ -111,5 +111,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2023 01:18:29 UTC
+ Last Updated on 15/02/2023 01:19:41 UTC
 <!--END_SECTION:waka-->
