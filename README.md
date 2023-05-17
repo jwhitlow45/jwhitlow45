@@ -87,15 +87,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   34 mins             ██████████████████████░░░   88.60 % 
-HTML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -111,5 +109,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2023 01:03:17 UTC
+ Last Updated on 17/05/2023 01:04:22 UTC
 <!--END_SECTION:waka-->
