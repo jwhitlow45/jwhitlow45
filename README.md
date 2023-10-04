@@ -7,7 +7,7 @@
 <p>🖥️ B.S. Computer Science - 12/2022</p>
 <p>🎓 California State University, Fresno</p>
 
-### Portfolio and Socials
+### Socials
 <a href="https://linkedin.com/in/jwhitlow45">
   <img align="left"
        alt="jwhitlow45 | LinkedIn"
