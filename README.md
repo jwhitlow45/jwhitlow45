@@ -8,12 +8,6 @@
 <p>🎓 California State University, Fresno</p>
 
 ### Portfolio and Socials
-<a href="https://jwhitlow45.github.io">
-  <img align="left"
-       alt="jwhitlow45 | Portfolio"
-       width="24px"
-       src="https://raw.githubusercontent.com/jwhitlow45/jwhitlow45.github.io/main/img/brand/brand-black.png" />
-</a>
 <a href="https://linkedin.com/in/jwhitlow45">
   <img align="left"
        alt="jwhitlow45 | LinkedIn"
