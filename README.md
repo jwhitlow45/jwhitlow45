@@ -63,8 +63,6 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%201%20min-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172.7%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -81,14 +79,13 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     12 mins             ████████████████████████░   97.42 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -104,5 +101,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2023 00:56:38 UTC
+ Last Updated on 23/11/2023 00:56:57 UTC
 <!--END_SECTION:waka-->
