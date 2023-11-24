@@ -63,6 +63,8 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%201%20min-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172.7%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -79,13 +81,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 56 mins        ████████████████████████░   97.02 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +106,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2023 00:56:57 UTC
+ Last Updated on 24/11/2023 00:55:46 UTC
 <!--END_SECTION:waka-->
