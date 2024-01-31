@@ -63,7 +63,7 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.2%20thousand%20lines%20of%20code-blue)
 
@@ -81,13 +81,13 @@
 
 ```text
 💬 Programming Languages: 
-CSS                      5 mins              █████████████████████████   100.00 % 
+CSS                      7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +103,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2024 00:54:23 UTC
+ Last Updated on 31/01/2024 00:54:52 UTC
 <!--END_SECTION:waka-->
