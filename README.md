@@ -81,13 +81,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +103,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2024 00:54:45 UTC
+ Last Updated on 13/02/2024 00:54:50 UTC
 <!--END_SECTION:waka-->
