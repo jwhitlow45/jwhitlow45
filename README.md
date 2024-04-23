@@ -81,13 +81,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 15 mins        █████████████████████████   99.10 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +105,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2024 00:57:52 UTC
+ Last Updated on 23/04/2024 00:56:41 UTC
 <!--END_SECTION:waka-->
