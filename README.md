@@ -63,6 +63,8 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2030%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167.4%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -101,5 +103,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-10-22 01:13:06 UTC
+ Last Updated on 2024-10-23 01:11:36 UTC
 <!--END_SECTION:waka-->
