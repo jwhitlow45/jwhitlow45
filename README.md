@@ -81,13 +81,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     9 mins              ██████████████████████░░░   89.75 % 
+Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +104,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-11-02 01:11:06 UTC
+ Last Updated on 2024-11-03 01:17:00 UTC
 <!--END_SECTION:waka-->
