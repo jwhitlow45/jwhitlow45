@@ -81,15 +81,13 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     20 mins             ██████████████████████░░░   88.67 % 
-TOML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +103,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-11-11 01:12:49 UTC
+ Last Updated on 2024-11-12 01:10:25 UTC
 <!--END_SECTION:waka-->
