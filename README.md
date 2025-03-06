@@ -81,13 +81,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 5 mins         █████████████████████████   99.97 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +104,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-03-05 01:15:15 UTC
+ Last Updated on 2025-03-06 01:15:35 UTC
 <!--END_SECTION:waka-->
