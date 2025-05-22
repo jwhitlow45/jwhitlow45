@@ -63,8 +63,6 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2031%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184.8%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -81,8 +79,7 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████░░░░   83.78 % 
-Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Python                   3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  3 mins              █████████████████████████   100.00 % 
@@ -104,5 +101,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-05-21 01:23:46 UTC
+ Last Updated on 2025-05-22 01:22:49 UTC
 <!--END_SECTION:waka-->
