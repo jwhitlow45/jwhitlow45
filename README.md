@@ -43,7 +43,32 @@
 
 ### My Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.73%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%207%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.82%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                490 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+🌆 Daytime                12501 commits       ███████████████░░░░░░░░░░   60.78 % 
+🌃 Evening                7193 commits        █████████░░░░░░░░░░░░░░░░   34.97 % 
+🌙 Night                  383 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Python** 
 
@@ -58,5 +83,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-15 02:58:59 UTC
+ Last Updated on 2026-05-16 02:47:28 UTC
 <!--END_SECTION:waka-->
