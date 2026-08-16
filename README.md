@@ -1,6 +1,6 @@
 ### About Me
 <p>
-  <a href="https://alcoverooms.com"><img src="./assets/alcove.png" width="16px" height="16px" border-radius="2px" /></a>
+  <a href="https://alcoverooms.com"><img src="./assets/alcove.webp" width="16px" height="16px" /></a>
   Shared housing go brrr 🏠</p>
 <p>
   <img src="./assets/macos.png" width="16px" height="16px" />
