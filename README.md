@@ -30,7 +30,7 @@
 <img align="left"
      alt="aws"
      width="24px"
-     src="./assets/aws.webp" />
+     src="./assets/aws.png" />
 <img align="left"
      alt="python"
      width="24px"
